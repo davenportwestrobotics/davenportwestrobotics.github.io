@@ -1,6 +1,6 @@
 ## Welcome! We're the Davenport West robotics team and we're so happy you've decided to check out our webpage!
 
-You can use the [editor on GitHub](https://github.com/davenportwestrobotics/davenportwestrobotics.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site will become more populated soon. Please stand by.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
