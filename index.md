@@ -1,4 +1,4 @@
-## Welcome! We're the DAvenport West robotics team and we're so happy you've decided to check out our webpage!
+## Welcome! We're the Davenport West robotics team and we're so happy you've decided to check out our webpage!
 
 You can use the [editor on GitHub](https://github.com/davenportwestrobotics/davenportwestrobotics.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
