@@ -1,4 +1,18 @@
-![Robot_1](docs/assets/20211118_163245.jpg)
-![Robot_2](docs/assets/20211118_163247.jpg)
-![Robot_3](docs/assets/20211118_163237.jpg)
-![Robot_4](docs/assets/20211118_163230.jpg)
+Below we have a few images of our latest robot we used in the Cow Town Throw Down.
+We'll add more as we continue innovating.
+<table>
+<tr> 
+<td>
+<img src="docs/assets/20211118_163245.jpg">
+</td>
+<td>
+<img src="docs/assets/20211118_163247.jpg">
+</td>
+<td>
+<img src="docs/assets/20211118_163237.jpg">
+</td>
+<td>
+<img src="docs/assets/20211118_163230.jpg">
+</td>
+</tr>
+</table>
