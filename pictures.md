@@ -3,16 +3,24 @@ We'll add more as we continue innovating.
 <table>
 <tr> 
 <td>
-<img src="docs/assets/20211118_163245.jpg">
+<img src="docs/assets/20211118_163245.jpg"
+width="1920"
+height="1080"/>
 </td>
 <td>
-<img src="docs/assets/20211118_163247.jpg">
+<img src="docs/assets/20211118_163247.jpg"
+width="1920"
+height="1080"/>
 </td>
 <td>
-<img src="docs/assets/20211118_163237.jpg">
+<img src="docs/assets/20211118_163237.jpg"
+width="1920"
+height="1080"/>
 </td>
 <td>
-<img src="docs/assets/20211118_163230.jpg">
+<img src="docs/assets/20211118_163230.jpg"
+width="1920"
+height="1080"/>
 </td>
 </tr>
 </table>
