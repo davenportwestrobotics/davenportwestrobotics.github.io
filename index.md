@@ -1,20 +1,23 @@
-### Disruptive Innovation
-## We're Disruptive Innovation, the Davenport West High robotics team! Thanks for checking out our website.
-We're a team of high school students ready to disrupt the world of robotics and show what we've really got to offer.  
-Below we have a few images of our latest robot we used in the Cow Town Throw Down.  
-
 <table>
 <tr>
 <td>
-<a href="#">test</a>
+<a href="pictures.md">Our Robot</a>
 </td>
 <td>
-<a href="pictures.md">pictures</a>
+<a href="pictures.md">test</a>
 </td>
 <td>
 <a href="#">test</a>
 </td>
 </tr>
 </table>
+
+
+
+### Disruptive Innovation
+## We're Disruptive Innovation, the Davenport West High robotics team! Thanks for checking out our website.
+We're a team of high school students ready to disrupt the world of robotics and show what we've really got to offer.  
+Below we have a few images of our latest robot we used in the Cow Town Throw Down.  
+
 
 
