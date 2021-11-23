@@ -1,16 +1,4 @@
-<table>
-<tr>
-<td>
-<a href="pictures.md">Our Robot</a>
-</td>
-<td>
-<a href="pictures.md">test</a>
-</td>
-<td>
-<a href="#">test</a>
-</td>
-</tr>
-</table>
+This is a [Test](/pictures.md)
 
 
 
