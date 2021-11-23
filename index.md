@@ -1,4 +1,4 @@
-
+### Check out our robot [here!](/pictures.md)
 
 
 
