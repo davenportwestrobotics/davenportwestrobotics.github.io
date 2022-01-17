@@ -4,7 +4,7 @@ We'll add more as we continue innovating.
 <tr> 
 <td>
 <img src="docs/assets/20211118_163245.jpg"
-style="max-width: 10%; height: auto;"/>
+style="max-width: 5%; height: auto;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
