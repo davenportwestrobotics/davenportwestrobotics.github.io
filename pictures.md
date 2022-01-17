@@ -4,11 +4,11 @@ We'll add more as we continue innovating.
 <tr> 
 <td>
 <img src="docs/assets/20211118_163247.jpg"
-style="float: left; max-width: 200%; height: auto; margin-right: 200px;"/>
+style="float: left; max-width: 200%; height: auto; margin-right: 300px;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163237.jpg"
-style="float: left; max-width: 200%; height: auto; margin-left: 200px;"/>
+style="float: left; max-width: 200%; height: auto; margin-left: 300px;"/>
 </td>
 </tr>
 </table>
