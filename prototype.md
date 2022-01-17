@@ -2,20 +2,13 @@ This is the new prototype robot we have! It's very much not complete yet so we'l
 <table>
 <tr> 
 <td>
-<img src="docs/assets/*.jpg"
-style="max-width: 60%; height: auto;"/>
+<img src="docs/assets/20211118_163247.jpg"
+style="float: left; max-width: 200%; height: auto; margin-left: 200px;"/>
 </td>
 <td>
-<img src="docs/assets/*.jpg"
-style="max-width: 60%; height: auto;"/>
+<img src="docs/assets/20211118_163237.jpg"
+style="float: left; max-width: 200%; height: auto; margin-right: 200px;"/>
 </td>
 <td>
-<img src="docs/assets/*.jpg"
-style="max-width: 60%; height: auto;"/>
-</td>
-<td>
-<img src="docs/assets/*.jpg"
-style="max-width: 60%; height: auto;"/>
-</td>
 </tr>
 </table>
