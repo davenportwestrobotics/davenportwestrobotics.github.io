@@ -4,23 +4,23 @@ We'll add more as we continue innovating.
 <tr> 
 <td>
 <img src="docs/assets/20211118_163245.jpg"
-width="1400"
-height="720"/>
+width="1200"
+height="520"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
-width="1400"
-height="720"/>
+width="1200"
+height="520"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163237.jpg"
-width="1400"
-height="720"/>
+width="1200"
+height="520"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163230.jpg"
-width="1400"
-height="720"/>
+width="1200"
+height="520"/>
 </td>
 </tr>
 </table>
