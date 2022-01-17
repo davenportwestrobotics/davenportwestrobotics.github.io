@@ -4,7 +4,7 @@ We'll add more as we continue innovating.
 <tr> 
 <td>
 <img src="docs/assets/20211118_163245.jpg"
-width="2400"
+width="24000"
 height="1080"/>
 </td>
 <td>
