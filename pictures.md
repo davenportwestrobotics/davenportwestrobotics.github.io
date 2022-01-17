@@ -4,19 +4,19 @@ We'll add more as we continue innovating.
 <tr> 
 <td>
 <img src="docs/assets/20211118_163245.jpg"
-style="float: left; max-width: 200%; height: auto; margin-right: 5px;"/>
+style="float: left; max-width: 200%; height: auto; margin-right: 500px;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
-style="float: left; max-width: 200%; height: auto; margin-right: 5px;"/>
+style="float: left; max-width: 200%; height: auto; margin-right: 500px;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163237.jpg"
-style="float: left; max-width: 200%; height: auto; margin-right: 5px;"/>
+style="float: left; max-width: 200%; height: auto; margin-right: 500px;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163230.jpg"
-style="float: left; max-width: 200%; height: auto; margin-right: 5px;"/>
+style="float: left; max-width: 200%; height: auto; margin-right: 500px;"/>
 </td>
 </tr>
 </table>
