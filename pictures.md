@@ -10,6 +10,5 @@ style="float: left; max-width: 200%; height: auto; margin-left: 200px;"/>
 <img src="docs/assets/20211118_163237.jpg"
 style="float: left; max-width: 200%; height: auto; margin-right: 200px;"/>
 </td>
-<td>
 </tr>
 </table>
