@@ -5,7 +5,7 @@ We'll add more as we continue innovating.
 <td>
 <img src="docs/assets/20211118_163245.jpg"
 width="640"
-height="480"/>
+height="640"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
