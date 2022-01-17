@@ -1,5 +1,5 @@
 ### Check out our robot [here!](/pictures.md)
-
+### This is our newest prototype that we are working on for Rapid React. Take a look [here!](/prototype.md)
 
 
 ### Disruptive Innovation
