@@ -4,8 +4,8 @@ We'll add more as we continue innovating.
 <tr> 
 <td>
 <img src="docs/assets/20211118_163245.jpg"
-width="1920"
-height="1080"/>
+width="640"
+height="480"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
