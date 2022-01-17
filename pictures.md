@@ -8,18 +8,15 @@ style="max-width: 5%; height: auto;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
-width="1000"
-height="320"/>
+style="max-width: 5%; height: auto;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163237.jpg"
-width="1000"
-height="320"/>
+style="max-width: 5%; height: auto;"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163230.jpg"
-width="1000"
-height="320"/>
+style="max-width: 5%; height: auto;"/>
 </td>
 </tr>
 </table>
