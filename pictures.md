@@ -3,10 +3,6 @@ We'll add more as we continue innovating.
 <table>
 <tr> 
 <td>
-<img src="docs/assets/20211118_163245.jpg"
-style="float: left; max-width: 200%; height: auto; margin-right: 200px;"/>
-</td>
-<td>
 <img src="docs/assets/20211118_163247.jpg"
 style="float: left; max-width: 200%; height: auto; margin-left: 200px;"/>
 </td>
@@ -15,8 +11,5 @@ style="float: left; max-width: 200%; height: auto; margin-left: 200px;"/>
 style="float: left; max-width: 200%; height: auto; margin-right: 200px;"/>
 </td>
 <td>
-<img src="docs/assets/20211118_163230.jpg"
-style="float: left; max-width: 200%; height: auto; margin-left: 200px;"/>
-</td>
 </tr>
 </table>
