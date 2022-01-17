@@ -9,17 +9,17 @@ height="1080"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163247.jpg"
-width="1920"
+width="24000"
 height="1080"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163237.jpg"
-width="1920"
+width="24000"
 height="1080"/>
 </td>
 <td>
 <img src="docs/assets/20211118_163230.jpg"
-width="1920"
+width="24000"
 height="1080"/>
 </td>
 </tr>
