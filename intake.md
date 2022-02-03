@@ -1,3 +1,5 @@
+[Go back](/blog.md)
+
 <table>
 <tr> 
 <td>
@@ -6,4 +8,3 @@ style="float: left; max-width: 100%; height: auto;"/>
 </td>
 </tr>
 </table>
-### Check out our blog [here!](/blog.md)
