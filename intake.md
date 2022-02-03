@@ -6,3 +6,4 @@ style="float: left; max-width: 100%; height: auto;"/>
 </td>
 </tr>
 </table>
+[Go back](/blog.md)
