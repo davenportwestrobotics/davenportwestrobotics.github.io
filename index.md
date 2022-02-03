@@ -8,11 +8,12 @@ We're a team of high school students ready to disrupt the world of robotics and 
 <table>
 <tr> 
 <td>
-<img src="docs/assets/logo/signal-2022-01-20-15-55-10-000.jpg"
-style="float: left; max-width: 100%; height: auto;"/>
+<div class="medium-img" data-src="full.jpg">
+  <img class="blur" src="docs/assets/logo/signal-2022-01-20-15-55-10-000.jpg" />
+  <noscript>
+    <img src="docs/assets/logo/signal-2022-01-20-15-55-10-000.jpg" />
+  </noscript>
+</div>
 </td>
 </tr>
 </table>
- 
-
-
