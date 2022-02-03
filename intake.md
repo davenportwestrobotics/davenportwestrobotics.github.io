@@ -1,4 +1,4 @@
-[Go back](/blog.md)
+### [Go back](/blog.md)
 
 <table>
 <tr> 
