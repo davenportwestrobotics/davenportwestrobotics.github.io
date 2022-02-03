@@ -8,7 +8,6 @@ We're a team of high school students ready to disrupt the world of robotics and 
 <tr> 
 <td>
 <img src="docs/assets/logo/signal-2022-01-20-15-55-10-000.jpg" />
-</div>
 </td>
 </tr>
 </table>
