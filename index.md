@@ -1,4 +1,3 @@
-% Disruptive Innovation
 ### Check out our blog [here!](/blog.md)
 ### This is our newest prototype that we are working on for Rapid React. Take a look [here!](/prototype.md)
 
